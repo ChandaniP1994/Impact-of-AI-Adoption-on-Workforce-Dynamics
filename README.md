@@ -12,7 +12,7 @@ This project analyzes the impact of Artificial Intelligence adoption on workforc
 
 # 📂 Dataset
 
-`/Dataset/ai_job_impact.csv`
+`ai_job_impact.csv`
 
 ---
 
