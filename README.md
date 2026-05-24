@@ -1,4 +1,5 @@
 🚀 Exploring the Impact of AI Adoption on Workforce Dynamics
+
 📌 Objective
 To understand how AI adoption is influencing employees, job roles, salaries, automation risk, and workforce adaptability across industries using Data Analytics and Visualization techniques.
 
