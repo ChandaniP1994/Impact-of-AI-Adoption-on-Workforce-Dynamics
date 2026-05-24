@@ -41,7 +41,7 @@ This project analyzes the impact of Artificial Intelligence adoption on workforc
 
 # 📁 Files Included
 
-* `Final_AI_Proj.ipynb`
+* `AI_Adoption_Workforce_Dynamics_EDA.ipynb`
 * `ai_job_impact.csv`
 
 ---
